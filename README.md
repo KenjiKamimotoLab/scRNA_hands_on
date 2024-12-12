@@ -1,2 +1,3 @@
-# scRNA_hands_on
+# scRNA hands-on
 Learning materials for single cell analysis hands-on.
+
